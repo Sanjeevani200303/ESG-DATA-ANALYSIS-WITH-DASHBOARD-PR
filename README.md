@@ -126,62 +126,12 @@ Based on the insights derived:
 5.	Integrate ESG KPIs in Strategy: ESG metrics should be tied directly to management incentives and corporate performance reviews.
 
 ________________________________________
-9. Conclusion
+9. Conclusion - 
 This ESG analytics project demonstrates how quantitative data modeling can transform sustainability assessment from a narrative concept into measurable business intelligence.
  By normalizing environmental data, integrating social and governance indicators, and visualizing outcomes through dashboards, the analysis provides a holistic understanding of corporate sustainability maturity.
 The framework developed in this study can be extended to real-world ESG databases (e.g., Refinitiv, MSCI, or CDP) for institutional benchmarking and investment decisions.
  The results highlight that technology and service-driven firms lead in ESG compliance, while traditional energy-intensive sectors require focused intervention to align with global net-zero goals.
 ________________________________________
-10. ESG Scoring and Company Rankings (2023)
-Rank	Company	Environmental Score	Social Score	Governance Score	Overall ESG Score (0–100)	ESG Rating
-1	Apple	94	91	90	92	AAA
-2	Microsoft	90	88	87	88	AAA
-3	Infosys	83	92	86	87	AA
-4	Unilever	81	90	82	84	AA
-5	Tesla	89	78	82	83	AA
-6	Wipro	78	89	80	82	AA
-7	Meta	76	84	82	81	A
-8	Google (Alphabet)	79	80	80	80	A
-9	BMW	85	72	78	78	A
-10	Axis Bank	74	75	83	77	A
-11	HDFC Bank	73	78	80	77	A
-12	ITC Ltd	77	74	78	76	A
-13	Nestlé	75	78	74	76	BBB
-14	Larsen & Toubro	70	76	80	75	BBB
-15	Mahindra & Mahindra	72	74	77	74	BBB
-16	Coca-Cola	68	79	73	73	BBB
-17	Tata Steel	69	70	75	71	BBB
-18	Samsung	71	68	73	71	BBB
-19	Adani Green Energy	80	61	68	70	BB
-20	BP	58	69	75	67	BB
-21	Toyota	66	65	70	67	BB
-22	Siemens	60	70	72	67	BB
-23	Bharti Airtel	61	67	68	65	BB
-24	Maruti Suzuki	64	62	66	64	BB
-25	NTPC Ltd	63	60	68	64	B
-26	Indian Oil Corp	54	65	66	62	B
-27	Shell	56	60	65	60	B
-28	Reliance Industries	51	61	64	59	B
-29	Hindustan Unilever (India)	57	58	60	58	B
-30	BP (duplicate for example)	50	55	60	55	CCC
-Insights from Rankings
-●	Tech companies dominate the top ESG positions due to strong decarbonization, ethical governance, and diversity initiatives.
-
-●	Energy conglomerates (e.g., Shell, BP, Reliance, IOCL) remain laggards primarily due to high CO₂ footprints and low renewable integration.
-
-●	Companies like Infosys, Wipro, and Axis Bank reflect strong social and governance performance, showcasing how emerging markets can lead in sustainability governance.
-
-●	Average ESG Score across all 30 firms = 73.4/100, indicating moderate-to-high global sustainability adoption.
-
-ESG Rating Scale (Industry Standard Reference)
-
-
-Score Range	ESG Grade	Performance Category
-85–100	AAA	Industry Leader
-75–84	AA	Excellent
-65–74	A / BBB	Above Average
-50–64	BB / B	Moderate
-Below 50	CCC	Weak ESG Practices
 
 10. References
 ●	Global Reporting Initiative (GRI) Standards
