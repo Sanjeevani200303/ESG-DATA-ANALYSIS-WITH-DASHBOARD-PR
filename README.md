@@ -2,7 +2,7 @@
 
 ESG Performance Analysis of 30 Global Companies
 ________________________________________
-1. Executive Summary
+1. Executive Summary - 
 This project evaluates the Environmental, Social, and Governance (ESG) performance of 30 globally recognized companies across diverse industries including technology, energy, finance, manufacturing, and consumer goods.
  The objective is to develop a comprehensive, data-driven ESG scoring model that quantifies sustainability performance through measurable indicators.
 Using simulated but realistic data, this study standardizes and analyzes key ESG metrics — such as CO₂ emissions, renewable energy usage, waste recycling, CSR expenditure, workforce diversity, and governance transparency.
